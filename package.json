@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "y",
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "private": true,
+  "devDependencies": {
+    "@bazel/typescript": "^1.4.1",
+    "typescript": "^3.8.3"
+  }
+}
